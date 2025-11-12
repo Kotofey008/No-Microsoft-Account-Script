@@ -74,3 +74,4 @@ echo.
 echo Legacy local account screen should open...
 pause
 goto :MainMenu
+
